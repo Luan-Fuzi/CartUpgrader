@@ -38,7 +38,7 @@ TNT矿车爆炸时可能有（没出现过，没验证过但我总害怕有）bu
 * Minecart with Furnace
 * Minecart with TNT
 
-### Depends:[Codes](https://github.com/Luan-Fuzi/CartUpgrader "github")
+### Depends:
 
 * Minecraft 1.16.5
 * Fabric Loader >=0.14.0
