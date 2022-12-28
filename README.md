@@ -4,6 +4,8 @@
 
 **目前只作为实验性模组，使用前请备份存档。**
 
+下载：[CurseForge](https://www.curseforge.com/minecraft/modpacks/cartupgrader "CartUpgrader")
+
 ### 适用范围：
 
 * 普通矿车
