@@ -32,6 +32,8 @@ TNT矿车爆炸时可能有（没出现过，没验证过但我总害怕有）bu
 
 **This is only an experimental mod. Please backup your saves before use.**
 
+DownLoad: [CurseForge](https://www.curseforge.com/minecraft/modpacks/cartupgrader "CartUpgrader")
+
 ### These minecart entities are involved:
 
 * Minecart(itself)
