@@ -4,7 +4,7 @@
 
 **目前只作为实验性模组，使用前请备份存档。**
 
-下载：[CurseForge](https://www.curseforge.com/minecraft/modpacks/cartupgrader "CartUpgrader")
+下载：[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cartupgrader "CartUpgrader")
 
 ### 适用范围：
 
@@ -32,7 +32,7 @@ TNT矿车爆炸时可能有（没出现过，没验证过但我总害怕有）bu
 
 **This is only an experimental mod. Please backup your saves before use.**
 
-DownLoad: [CurseForge](https://www.curseforge.com/minecraft/modpacks/cartupgrader "CartUpgrader")
+DownLoad: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cartupgrader "CartUpgrader")
 
 ### These minecart entities are involved:
 
