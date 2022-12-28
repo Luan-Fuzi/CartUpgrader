@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "cartupgrader",
+  "version": "${version}",
+  "name": "CartUpgrader",
+  "description": "Container and other mincarts will drop themselves when they're destroyed.",
+  "authors": [
+    "Luan_Fuzi"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/cartupgrader",
+    "sources": "https://github.com/Luan-Fuzi/CartUpgrader"
+  },
+  "license": "MIT",
+  "icon": "assets/CartUpgrader/HopperCart.jpeg",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.luan_fuzi.cartupgrader.client.CartUpgraderClient"
+    ],
+    "main": [
+      "com.luan_fuzi.cartupgrader.CartUpgrader"
+    ]
+  },
+  "mixins": [
+    "CartUpgrader.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}

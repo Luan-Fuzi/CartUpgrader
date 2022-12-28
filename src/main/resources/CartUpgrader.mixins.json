@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.luan_fuzi.cartupgrader.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": ["CartHack","ChestCartHack","HopperCartHack","NormalCartHack","TNTCartHack","FurCartHack"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
