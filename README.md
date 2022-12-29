@@ -50,4 +50,4 @@ DownLoad: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cartupgrader
 
 Frankly speaking, I'm that kind of person who would like to stay at an old version of game, but eager to see new features, so I spent a period of time learning Fabric and Mixin, and wrote this as a simple practice. I'm fufilled.
 
-Minecarts with TNT may not behave as I with(I don't find bugs, but I'm afraid there might be), so please contact with me if you have any questions  or ideas.
+Minecarts with TNT may not behave as I wish(I don't find bugs, but I'm afraid there might be), so please contact with me if you have any questions  or ideas.
