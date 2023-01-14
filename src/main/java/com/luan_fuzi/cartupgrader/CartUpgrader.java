@@ -4,6 +4,7 @@ import com.luan_fuzi.cartupgrader.commands.CartCommand;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.command.v1.CommandRegistrationCallback;
 
+//awa reversed.
 public class CartUpgrader implements ModInitializer {
 //    public static int Status = 1;
     @Override
